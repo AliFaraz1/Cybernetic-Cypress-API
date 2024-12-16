@@ -24,6 +24,8 @@ The framework includes guidelines to coding standards, BDD approach that drive t
 
 Create Build
 
+Make sure you have node installed.
+
 ```bash
   npm install
 ```
